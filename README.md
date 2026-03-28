@@ -24,7 +24,7 @@ Playlist.java → Representa uma playlist de músicas
 Usuario.java → Representa um usuário do sistema
 Main.java → Classe principal para execução e testes
 
-🔒 Encapsulamento
+## 🔒 Encapsulamento
 
 Todos os atributos das classes foram definidos como private, garantindo proteção dos dados.
 
